@@ -2,4 +2,4 @@
 # Creating dataframes
 
 
-Ceating dataframes by different methods
+Creating dataframes by different methods
