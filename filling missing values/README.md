@@ -1,6 +1,6 @@
 
-# filling missing values
+# Filling missing values
 
 
-filling missing values by different methods
+Filling missing values using different methods
 
